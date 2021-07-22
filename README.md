@@ -17,7 +17,7 @@ This is the dataset containing the information about the spand and type of the e
 This is the dataset containing link information between entities in a sentence
 
 | Column       |  Description |
-| ========= | ======================================================================  |
+| --- | ---  |
 | Head_id      |  Entity span identifier of the head of the link  |
 | Dep_id       |  Entity span identifier of the dependent of the link  |
 | Link         |  Type of link between the head and the dependenct entity  |
