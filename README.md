@@ -1,10 +1,12 @@
-# SpecNFS
+**SpecNFS** dataset is a collection of 1198 setences annotated with their **SpecIR** representation. This dataset is part of our paper **SpecNFS: A Challenge Dataset Towards Extracting Formal Models from Natural Language Specifications**, which can be found in **SpecNFS-NLP4prog.pdf**.
+
+The datasets in **SpecNFS** along with their brief description are as follows:
 
 <ol>
-
+ 
 <li> ./dataset/NER_dataset.csv
 
-This is the dataset containing the information about the spand and type of the entities in a sentence
+This is the dataset containing the information about the spans and type of the entities in a sentence
 
 | **Column**   |  **Description** | 
 | --- | ---- |
@@ -18,7 +20,7 @@ This is the dataset containing the information about the spand and type of the e
  
 <li> ./dataset/Link_dataset.csv
 
-This is the dataset containing link information between entities in a sentence
+This is the dataset containing dependency link information between entities in a sentence
 
 | Column       |  Description |
 | --- | ---  |
