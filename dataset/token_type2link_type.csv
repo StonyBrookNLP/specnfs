@@ -1,0 +1,101 @@
+﻿H_Token_TYPE,D_Token_TYPE,Link_TYPE
+Op_return,Op_return,"['NONE', 'Post_Clause-Arg']"
+Op_return,Func_Name,"['NONE', 'Retrn_val-Arg', 'Post_Clause-Arg', 'Argument-Arg']"
+Op_return,OperationName,"['NONE', 'Retrn_val-Arg', 'Argument-Arg']"
+Op_return,Pred_Name,"['NONE', 'Retrn_val-Arg', 'Post_Clause-Arg', 'Argument-Arg']"
+Op_return,Value,"['NONE', 'Retrn_val-Arg', 'Argument-Arg']"
+Op_return,Variable,"['NONE', 'Retrn_val-Arg', 'Argument-Arg']"
+Op_return,and,"['NONE', 'Retrn_val-Arg', 'Post_Clause-Arg', 'Argument-Arg']"
+Op_return,or,"['NONE', 'Retrn_val-Arg', 'Post_Clause-Arg', 'Argument-Arg']"
+Func_Name,Op_return,"['NONE', 'Post_Clause-Arg', 'Argument-Arg']"
+Func_Name,Func_Name,"['NONE', 'Retrn_val-Arg', 'Post_Clause-Arg', 'Argument-Arg']"
+Func_Name,OperationName,"['NONE', 'Argument-Arg']"
+Func_Name,Pred_Name,"['NONE', 'Retrn_val-Arg', 'Post_Clause-Arg', 'Argument-Arg']"
+Func_Name,Value,"['NONE', 'Retrn_val-Arg', 'Argument-Arg']"
+Func_Name,Variable,"['NONE', 'Retrn_val-Arg', 'Argument-Arg']"
+Func_Name,and,"['NONE', 'Retrn_val-Arg', 'Post_Clause-Arg', 'Argument-Arg']"
+Func_Name,or,"['NONE', 'Retrn_val-Arg', 'Post_Clause-Arg', 'Argument-Arg']"
+Pred_Name,Op_return,"['NONE', 'Post_Clause-Arg', 'Argument-Arg']"
+Pred_Name,Func_Name,"['NONE', 'Post_Clause-Arg', 'Argument-Arg']"
+Pred_Name,OperationName,"['NONE', 'Argument-Arg']"
+Pred_Name,Pred_Name,"['NONE', 'Post_Clause-Arg', 'Argument-Arg']"
+Pred_Name,Value,"['NONE', 'Retrn_val-Arg', 'Argument-Arg']"
+Pred_Name,Variable,"['NONE', 'Retrn_val-Arg', 'Argument-Arg']"
+Pred_Name,and,"['NONE', 'Post_Clause-Arg', 'Argument-Arg']"
+Pred_Name,if_else,"['NONE', 'Post_Clause-Arg']"
+Pred_Name,or,"['NONE', 'Post_Clause-Arg', 'Argument-Arg']"
+and,Op_return,"['NONE', 'And_Or_Arg', 'Post_Clause-Arg']"
+and,Func_Name,"['NONE', 'And_Or_Arg', 'Post_Clause-Arg']"
+and,OperationName,"['NONE', 'And_Or_Arg']"
+and,Pred_Name,"['NONE', 'And_Or_Arg', 'Post_Clause-Arg']"
+and,Value,"['NONE', 'And_Or_Arg']"
+and,Variable,"['NONE', 'And_Or_Arg']"
+and,and,"['NONE', 'And_Or_Arg', 'Post_Clause-Arg']"
+and,if_else,"['NONE', 'And_Or_Arg']"
+and,or,"['NONE', 'And_Or_Arg', 'Post_Clause-Arg']"
+if_else,Op_return,"['else_Clause-Arg', 'Pre_Clause-Arg', 'NONE']"
+if_else,Func_Name,"['else_Clause-Arg', 'Pre_Clause-Arg', 'NONE']"
+if_else,Pred_Name,"['else_Clause-Arg', 'Pre_Clause-Arg', 'NONE']"
+if_else,and,"['else_Clause-Arg', 'Pre_Clause-Arg', 'NONE']"
+if_else,or,"['else_Clause-Arg', 'Pre_Clause-Arg', 'NONE']"
+or,Op_return,"['NONE', 'And_Or_Arg', 'Post_Clause-Arg']"
+or,Func_Name,"['NONE', 'And_Or_Arg', 'Post_Clause-Arg']"
+or,OperationName,"['NONE', 'And_Or_Arg']"
+or,Pred_Name,"['NONE', 'And_Or_Arg', 'Post_Clause-Arg']"
+or,Value,"['NONE', 'And_Or_Arg']"
+or,Variable,"['NONE', 'And_Or_Arg']"
+or,and,"['NONE', 'And_Or_Arg', 'Post_Clause-Arg']"
+or,or,"['NONE', 'And_Or_Arg', 'Post_Clause-Arg']"
+if_else,if_else,['NONE']
+if_else,NONE,['NONE']
+if_else,Variable,['NONE']
+if_else,Value,['NONE']
+if_else,OperationName,['NONE']
+NONE,if_else,['NONE']
+NONE,NONE,['NONE']
+NONE,Pred_Name,['NONE']
+NONE,and,['NONE']
+NONE,Variable,['NONE']
+NONE,Func_Name,['NONE']
+NONE,Op_return,['NONE']
+NONE,Value,['NONE']
+NONE,or,['NONE']
+NONE,OperationName,['NONE']
+Pred_Name,NONE,['NONE']
+and,NONE,['NONE']
+Variable,if_else,['NONE']
+Variable,NONE,['NONE']
+Variable,Pred_Name,['NONE']
+Variable,and,['NONE']
+Variable,Variable,['NONE']
+Variable,Func_Name,['NONE']
+Variable,Op_return,['NONE']
+Variable,Value,['NONE']
+Variable,or,['NONE']
+Variable,OperationName,['NONE']
+Func_Name,if_else,['NONE']
+Func_Name,NONE,['NONE']
+Op_return,if_else,['NONE']
+Op_return,NONE,['NONE']
+Value,if_else,['NONE']
+Value,NONE,['NONE']
+Value,Pred_Name,['NONE']
+Value,and,['NONE']
+Value,Variable,['NONE']
+Value,Func_Name,['NONE']
+Value,Op_return,['NONE']
+Value,Value,['NONE']
+Value,or,['NONE']
+Value,OperationName,['NONE']
+or,if_else,['NONE']
+or,NONE,['NONE']
+OperationName,if_else,['NONE']
+OperationName,NONE,['NONE']
+OperationName,Pred_Name,['NONE']
+OperationName,and,['NONE']
+OperationName,Variable,['NONE']
+OperationName,Func_Name,['NONE']
+OperationName,Op_return,['NONE']
+OperationName,Value,['NONE']
+OperationName,or,['NONE']
+OperationName,OperationName,['NONE']
