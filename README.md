@@ -28,9 +28,9 @@ This is the dataset containing link information between entities in a sentence
 
 This is the dataset containing the valid link types between different pair of entity types
 
-Column       ||  Description
-===============================================================================
-H_Token_TYPE | Head entity type
-D_Token_TYPE | Dependenct entity type
-Link_TYPE    | Valid link types between head and dependenct entity types
+ | Column       |  Description  | 
+ | ---  | ---  | 
+ | H_Token_TYPE | Head entity type  | 
+ | D_Token_TYPE | Dependenct entity type  | 
+ | Link_TYPE    | Valid link types between head and dependenct entity types  | 
 
