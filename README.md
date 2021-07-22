@@ -2,7 +2,7 @@
 
 <ol>
 
-<li> ** ./dataset/NER_dataset.csv **
+<li> **./dataset/NER_dataset.csv**
 
 This is the dataset containing the information about the spand and type of the entities in a sentence
 
