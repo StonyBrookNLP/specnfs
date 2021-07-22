@@ -1,6 +1,8 @@
 # SpecNFS
 
-## 1. ./dataset/NER_dataset.csv
+<ol>
+
+<li> ./dataset/NER_dataset.csv </li>
 
 This is the dataset containing the information about the spand and type of the entities in a sentence
 
@@ -12,6 +14,8 @@ This is the dataset containing the information about the spand and type of the e
 | Token_no  |  Sequence number of a token in a sentence. | 
 | Partition |  The partition no. of the sentence which was used for the 5-fold cross validation reported in the paper  |
 
+ </ol>
+ 
 2. ./dataset/Link_dataset.csv
 
 This is the dataset containing link information between entities in a sentence
