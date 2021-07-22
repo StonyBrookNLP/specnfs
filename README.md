@@ -4,7 +4,7 @@
 
 This is the dataset containing the information about the spand and type of the entities in a sentence
 
-| Column   |  Description | 
+| **Column**   |  **Description** | 
 | --- | ---- |
 | Sentence  |  Sentence number | 
 | Token     |  Token in the sentence | 
@@ -16,13 +16,13 @@ This is the dataset containing the information about the spand and type of the e
 
 This is the dataset containing link information between entities in a sentence
 
-Column       ||  Description
-===============================================================================
-Head_id      |  Entity span identifier of the head of the link
-Dep_id       |  Entity span identifier of the dependent of the link
-Link         |  Type of link between the head and the dependenct entity
-Sentence_no  |  Sentence number of the link
-Partition    |  The partition no. of the sentence which was used for the 5-fold cross validation reported in the paper 
+| Column       |  Description |
+| ===============================================================================  |
+| Head_id      |  Entity span identifier of the head of the link  |
+| Dep_id       |  Entity span identifier of the dependent of the link  |
+| Link         |  Type of link between the head and the dependenct entity  |
+| Sentence_no  |  Sentence number of the link  |
+| Partition    |  The partition no. of the sentence which was used for the 5-fold cross validation reported in the paper   |
 
 3. ./dataset/token_type2link_type.csv
 
