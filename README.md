@@ -30,7 +30,7 @@ This is the dataset containing link information between entities in a sentence
 
 </li>
 
-<li> ./dataset/token_type2link_type.csv
+<li> `./dataset/token_type2link_type.csv`
 
 This is the dataset containing the valid link types between different pair of entity types
 
