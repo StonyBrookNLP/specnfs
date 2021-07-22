@@ -2,7 +2,7 @@
 
 <ol>
 
-<li> ./dataset/NER_dataset.csv 
+<li> ** ./dataset/NER_dataset.csv **
 
 This is the dataset containing the information about the spand and type of the entities in a sentence
 
@@ -16,7 +16,7 @@ This is the dataset containing the information about the spand and type of the e
 
  </li>
  
-<li> ./dataset/Link_dataset.csv
+<li>  **./dataset/Link_dataset.csv **
 
 This is the dataset containing link information between entities in a sentence
 
@@ -30,7 +30,7 @@ This is the dataset containing link information between entities in a sentence
 
 </li>
 
-<li> ``` ./dataset/token_type2link_type.csv ```
+<li>  ** ./dataset/token_type2link_type.csv  **
 
 This is the dataset containing the valid link types between different pair of entity types
 
