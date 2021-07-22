@@ -4,8 +4,8 @@
 
 This is the dataset containing the information about the spand and type of the entities in a sentence
 
-| Column   ||  Description | 
-| =============================================================================== | 
+| Column   |  Description | 
+| --- | ---- |
 | Sentence  |  Sentence number | 
 | Token     |  Token in the sentence | 
 | Token_ID  |  Unique identifier of the span of entity in a sentence | 
