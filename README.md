@@ -1,5 +1,7 @@
-**SpecNFS** dataset is a collection of 1198 NFS-RFC specifications annotated with their **SpecIR** representation. This dataset is part of our paper **SpecNFS: A Challenge Dataset Towards Extracting Formal Models from Natural Language Specifications** (accepted as spotlight paper in 2021 ACL workshop, [NLP4Prog](https://nlp4prog.github.io/2021/)), which can be found in **SpecNFS-NLP4prog.pdf**.
-
+**SpecNFS** dataset is a collection of 1198 NFS-RFC specifications annotated with their **SpecIR** representation. 
+<!-- This dataset is part of our paper **SpecNFS: A Challenge Dataset Towards Extracting Formal Models from Natural Language Specifications** (accepted as spotlight paper in 2021 ACL workshop, [NLP4Prog](https://nlp4prog.github.io/2021/)), which can be found in **SpecNFS-NLP4prog.pdf**.
+ -->
+ 
 The datasets in **SpecNFS** along with their brief description are as follows:
 
 <ol>
